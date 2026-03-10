@@ -77,7 +77,7 @@ A **Model Context Protocol (MCP) server** that connects Claude to live Indian st
 ### 1. Clone & install dependencies
 
 ```bash
-git clone https://github.com/your-username/indian-stock-mcp.git
+git clone https://github.com/NavyaAgarwal02/indian-stock-mcp.git
 cd indian-stock-mcp
 python -m venv .venv
 source .venv/bin/activate          # Windows: .venv\Scripts\activate
